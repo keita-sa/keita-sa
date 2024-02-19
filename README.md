@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I have undergone approximately 1,400 hours of learning in my spare time from 2020, mainly focusing on Python, attaining a skill level equivalent to that of a junior developer.
+
 <!--
 **keita-sa/keita-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
