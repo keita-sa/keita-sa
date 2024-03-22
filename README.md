@@ -1,4 +1,4 @@
-### Hi there 👋　https://github.com/keita-sa/keita-sa/blob/aefde5a48be9337ea6cda1fe4b11a53b181fb006/wave-hello.gif
+### Hi there 👋
 
 🌱 I have undergone approximately 1,400 hours of learning in my spare time from 2020, mainly focusing on Python, attaining a skill level equivalent to that of a junior developer.
 
