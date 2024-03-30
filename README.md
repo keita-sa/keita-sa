@@ -2,8 +2,8 @@
 
 🌱 I have undergone approximately 1,500 hours of learning in my spare time from 2020, mainly focusing on Python, attaining a skill level equivalent to that of a junior developer. 
 
-Also I am currently pursuing an MSCS degree at an American university.\\
-
+Also I am currently pursuing an MSCS degree at an American university.
+<p></p>
 
 Skillset: Python, Django, Go
 
