@@ -3,6 +3,8 @@
 🌱 I have undergone approximately 1,500 hours of learning in my spare time from 2020, mainly focusing on Python, attaining a skill level on par with a junior developer. 
 
 Also I am currently pursuing an MSCS degree at an American college. 
+
+https://github.com/keita-sa/classification_of_cancer_dataset/blob/main/scikit-learn%201%20classification%20of%20cancer%20dateaset.ipynb
 </br>
 </br>
 Skillset: Python, Django, Go
