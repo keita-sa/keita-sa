@@ -4,9 +4,7 @@
 
 Also I am currently pursuing an MSCS degree at an American college. 
 
-https://github.com/keita-sa/classification_of_cancer_dataset/blob/main/scikit-learn%201%20classification%20of%20cancer%20dateaset.ipynb
-
-https://github.com/keita-sa/classification_of_cancer_dataset/blob/27ebbdc47716d62d71d7f7f4e10ff8ed6a0c4898/scikit-learn%201%20classification%20of%20cancer%20dateaset.ipynb
+This site was built using [GitHub Pages](https://github.com/keita-sa/classification_of_cancer_dataset/blob/main/scikit-learn%201%20classification%20of%20cancer%20dateaset.ipynb)
 </br>
 </br>
 Skillset: Python, Django, Go
