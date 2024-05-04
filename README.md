@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=keita-sa)
+![](https://komarev.com/ghpvc/?username=keita-sa&color=green)
 
 🌱 I have undergone approximately 1,500 hours of learning in my spare time from 2020, mainly focusing on Python, attaining a skill level on par with a junior developer. 
 
