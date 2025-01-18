@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I have spent approximately 1,500 hours of learning programming in my spare time since 2020, mainly focusing on Python, and have attained a skill level on par with a junior developer. 
+I have spent approximately 3,700 hours of learning programming and working experience since 2020, including Master's-level coursework, mainly focusing on Python, and have attained a skill level on par with a junior developer. 
 
-Additionally, I am currently pursuing an MSCS degree at an American college. 
+As mentioned, I am currently pursuing an MSCS degree at an American college. 
 </br>
 </br>
 If you would like to see just one portfolio, please visit [this page](https://github.com/keita-sa/classification_of_cancer_dataset/blob/main/scikit-learn%201%20classification%20of%20cancer%20dateaset.ipynb).
